@@ -1,0 +1,23 @@
+{
+  "name": "webshot",
+  "version": "1.0.0",
+  "description": "It is a simple webhook as a service project aiming to reduce efforts integrating webhook support in a existing system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raman20/webshot.git"
+  },
+  "keywords": [
+    "webhook",
+    "saas"
+  ],
+  "author": "ramandwivedi20@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raman20/webshot/issues"
+  },
+  "homepage": "https://github.com/raman20/webshot#readme"
+}
